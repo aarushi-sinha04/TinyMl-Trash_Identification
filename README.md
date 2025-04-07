@@ -19,8 +19,8 @@ To build and deploy a lightweight ML model capable of identifying different tras
 5. **Deployment** – Exported model to Edge Impulse for testing and optimization.
 
 ## Results
-- **Validation Accuracy:** ~85%  
-- **Test Accuracy:** ~82%  
+- **Validation Accuracy:** ~88%  
+- **Test Accuracy:** ~95%  
 - Minor misclassifications in visually similar categories.
 
 ## Future Scope
